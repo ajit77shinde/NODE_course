@@ -1,0 +1,15 @@
+{
+  "name": "node_course",
+  "version": "1.0.0",
+  "description": "node bacis understning project to hepl us to know how its work , hads on practise.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ajit Shinde",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "yargs": "^15.1.0"
+  }
+}
